@@ -7,7 +7,6 @@ substract.addEventListener("click",function(){
     if(result >=0){
         output.innerHTML=result;
     }
-    
     console.log(output);
 });
 add.addEventListener("click",function(){
